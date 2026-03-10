@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.png
+sessions/
+cookies/
+.env
+venv/
